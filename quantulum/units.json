@@ -577,7 +577,7 @@
     },
     {
         "name": "russian ruble",
-        "surfaces": ["russian ruble", "russian rouble", "ruble", "rouble"],
+        "surfaces": ["russian ruble", "russian rouble", "ruble", "rouble", "rub"],
         "entity": "currency",
         "URI": "https://en.wikipedia.org/wiki/Russian_ruble",
         "dimensions": [],
