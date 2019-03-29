@@ -485,7 +485,7 @@
         "entity": "currency",
         "URI": "https://en.wikipedia.org/wiki/United_States_dollar",
         "dimensions": [],
-        "symbols": ["USD", "US$"]
+        "symbols": ["USD", "US$", "usd"]
     },
     {
         "name": "euro",
